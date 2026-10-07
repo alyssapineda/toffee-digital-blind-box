@@ -670,15 +670,20 @@ Do not optimise for developer cleverness at the expense of the user's experience
 
 ## 28. CURRENT PROJECT STATUS
 
-Phase: Asset preparation
+Phase: Web application development
 
 Completed:
-- [ ] Blind-box schematic
-- [ ] Sticker PNGs
-- [ ] 3D blind-box model
-- [ ] React/Vite project
+
+- [x] Blind-box schematic
+- [x] Sticker PNGs
+- [x] 3D blind-box GLB
+- [x] React/Vite project
+- [x] GitHub repository
 
 Current task:
-Prepare the 3D blind-box asset before beginning web development.
 
-Do not begin implementing the web application until the 3D asset has been finalised and placed in the project.
+Begin Phase 1 — project setup and 3D model rendering.
+
+The supplied assets are final enough to begin implementation.
+
+Do not replace or regenerate the supplied assets unless explicitly instructed.
